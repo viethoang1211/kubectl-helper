@@ -32,7 +32,7 @@ pip install XlsxWriter
 ## Usage
 1. Clone the repository:  
   ```bash
-  git clone https://github.com/anveshmuppeda/kubectl-helper.git
+  git clone https://github.com/viethoang1211/kubectl-helper.git
   cd kubectl-helper
   ```
 2. Ensure the prerequisites are installed.  
