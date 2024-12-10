@@ -20,6 +20,14 @@ The Kubernetes Helper Script is a Bash script designed to simplify the managemen
 - [kubectl](https://github.com/anveshmuppeda/kubectl-helper/tree/main/installation/kubectl) installed and configured to connect to your Kubernetes cluster.
 - [jq](https://stedolan.github.io/jq/) installed for JSON parsing.
 - [xlsxwriter](https://xlsxwriter.readthedocs.io/) Python library for Excel report generation.
+## Installation guide
+```
+# Install Azure CLI : https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
+az aks install-cli
+sudo apt-get update
+sudo apt-get install jq
+pip install XlsxWriter
+```
 
 ## Usage
 1. Clone the repository:  
